@@ -103,17 +103,14 @@ File:
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-
     <td align="center" style="padding: 20px; vertical-align: top;">
       <h3 style="margin-bottom: 10px;">Customer Segmentation Donut Chart</h3>
       <img src="images/customer_segmentation_donut.png" style="width:70%; border-radius:8px; border:1px solid #ddd;">
     </td>
-
     <td align="center" style="padding: 20px; vertical-align: top;">
       <h3 style="margin-bottom: 10px;">Monthly Sales Trend</h3>
       <img src="images/monthly_sales_trend.png" style="width:70%; border-radius:8px; border:1px solid #ddd;">
     </td>
-
     <td align="center" style="padding: 20px; vertical-align: top;">
       <h3 style="margin-bottom: 10px;">Trial vs Control Store Comparison</h3>
       <img src="images/trial_vs_control_sales.png" style="width:70%; border-radius:8px; border:1px solid #ddd;">
